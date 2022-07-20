@@ -107,7 +107,7 @@ body {
     font-size: 0.7rem;
 }
 
-@media (min-width: 375px) {
+@media (min-width: 451px) {
     .main-body {
         background-image: url("images/bg-pattern-top-desktop.svg"), url("images/bg-pattern-bottom-desktop.svg"); 
         padding: 8%;

@@ -2,7 +2,7 @@
 
 Social Proof is a static web page built to demonstrate CSS Flexbox.
 
-Deployed link - <a href='https://62d7d4f4d788632c85286338--phenomenal-beignet-4e34a1.netlify.app/'> click here</a>.
+Deployed link - <a href='https://cheerful-kashata-1e94cd.netlify.app/'> click here</a>.
 
 This page has a mobile and desktop resposive design (set at 450px) and built as per below design.
 
